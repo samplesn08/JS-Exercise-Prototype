@@ -48,7 +48,6 @@ function Airplane(name) {
   
   
   
-  
   /*
     TASK 2
       - Write a Car constructor that initializes `model` and `milesPerGallon` from arguments.
